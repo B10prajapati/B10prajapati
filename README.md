@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am Sahas Prajapati. An enthusiast full stack developer. Learning and sharpening my skills in software development.
 <!--
 **B10prajapati/B10prajapati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
