@@ -16,3 +16,4 @@ Some of my cherished projects:
 - https://github.com/B10prajapati/AI_LAB (Some AI Lab Samples)
 - https://github.com/B10prajapati/musicPlayer (React native music streaming app)
 - https://github.com/Project-Own/video_conference_front (AR integrated Video Conference)
+- https://github.com/B10prajapati/ecommerce-angular-frontend (Ecommerce Application)
